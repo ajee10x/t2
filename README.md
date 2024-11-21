@@ -2,7 +2,7 @@
 
 # My Repository
 <div align="right">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter"  width="150" height="50">
+  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter" >
 </div>
 
 Welcome to my project! Here's the GitHubViewsCounter tracking the views for this repository.
