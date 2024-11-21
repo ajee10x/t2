@@ -1,10 +1,12 @@
+<div align="right">
+  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter">
+</div>
+
+
 # My Repository
 
 Welcome to my project! Here's the GitHubViewsCounter tracking the views for this repository.
 
-<div align="right">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter">
-</div>
 
 ## Features
 - Feature 1
@@ -15,9 +17,6 @@ Welcome to my project! Here's the GitHubViewsCounter tracking the views for this
 2. Step 2
 
 
-<div align="right">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter">
-</div>
 
 
 ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t4&theme=light)
