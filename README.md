@@ -1,3 +1,5 @@
+# My Repository ![GitHubViewsCounter](http://localhost/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark)
+
 
 # My Repository <div align="left"> <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter" ></div>
 
