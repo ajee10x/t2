@@ -7,7 +7,7 @@
 </div>
 
 
-# My Repository ![GitHubViewsCounter](http://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark) [<img alt="Made With GitHubViewsCounter" src="https://openlabx.com/githubviewscounter/api/footer_image.php?theme=dark" />](https://github.com/openlab-x/GitHubViewsCounter)
+# My Repository ![GitHubViewsCounter](http://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark) [<img alt="Made With GitHubViewsCounter" src="https://openlabx.com/githubviewscounter/api/footer_image.php?theme=light" />](https://github.com/openlab-x/GitHubViewsCounter)
 
 
 
