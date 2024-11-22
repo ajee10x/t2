@@ -1,5 +1,5 @@
 
-# My Repository <div align="right"> <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter" ></div>
+# My Repository <div align="left"> <img src="https://openlabx.com/githubviewscounter/api/gitvcr.php?username=ajee10x&repository=t2&theme=dark" alt="GitHubViewsCounter" ></div>
 
 
 
